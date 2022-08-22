@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1145382884, guid: bdb9aecc998904ee283e788be911376d, type: 3}
+  m_Name: TrackingProfile - Topotags
+  m_EditorClassIdentifier: 
+  Description: 
+  items:
+  - JSONConfig: {fileID: 102900000, guid: b62a007b737d944059da6b9b4b6d3982, type: 3}
+    jsonName: Topotag_Ground_Map.json
+    jsonContent: "{\r\n    \"CARD_SINGLE\":\r\n    {\r\n        \"CalibFile\": \"Topotag_Ground_Map.dat\",\r\n       
+      \"Markers\": [100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115],\r\n       
+      \"MarkersSize\": [0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45,0.45]\r\n   
+      }\r\n}\r\n"
+  m_TrackBeacons: 1
+  m_CustomTrackingCalibrationFiles: 1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1145382884, guid: bdb9aecc998904ee283e788be911376d, type: 3}
+  m_Name: TrackingProfile - WallPlane
+  m_EditorClassIdentifier: 
+  Description: 
+  items:
+  - JSONConfig: {fileID: 102900000, guid: 444be9587c05b48f0939df9230d3d994, type: 3}
+    jsonName: LiBeacon-500-1.json
+    jsonContent: "{\r\n\t\"CARD_SINGLE\":\r\n\t{\r\n\t\t\t\"CalibFile\": \"LiBeacon-500-1.dat\",\r\n\t\t\t\"Markers\":
+      [36],\r\n\t\t\t\"MarkersSize\": [0.548]\r\n\t}\r\n}\r\n"
+  m_TrackBeacons: 1
+  m_CustomTrackingCalibrationFiles: 1
